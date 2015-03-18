@@ -92,7 +92,7 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site | <a href="http://www.westgrovevision.com//" rel="external">Classic Site</a></h1>
+		    <h1>Mobile Site | <a href="http://bistro821.com/" rel="external">Classic Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
