@@ -220,8 +220,17 @@
               </div>
 
 		  </div>
-            <p>With distinctive style, Executive Chef Jess S Housman creates a wide array of innovative entrees fusing Asian, European and Domestic flavors.
-                A great wine list and casual elegance add to an exceptional dining experience.</p>
+            <p><b>W</b> ith distinctive style, Executive Chef Jess S Housman creates a wide array of innovative entrees fusing Asian, European and Domestic flavors.
+                A great wine list and casual elegance add to an exceptional dining experience.</p><br/>
+            <p><b>Location</b></p>
+            <p>821 5th Avenue South
+            Naples, Florida 34102</p>
+            <p><strong>Phone:</strong> 239-261-5821</p>
+            <p><strong>Fax:</strong> 239-261-1972</p><br/>
+            <p><b>Hours</b></p>
+            <p><strong>Dinner</strong></p>
+            <p>Sunday – Thursday 5pm – 10pm</p>
+            <p>Friday & Saturday 5pm – 10:30pm</p>
 
 
 		 
@@ -247,7 +256,7 @@
 						</ul>
 					</section>
 
-                    <p>This is only a <b>PREVIEW</b> version of your Mobile Website.</p>
+                    <p>This is only a <b>Preview</b> version of your Mobile Website.</p>
                     <p>Please contatact our official Sales Representative for <b>Full Functional Version.</b></p>
 
 

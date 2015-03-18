@@ -257,8 +257,20 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 1px;
+    font-family: "My Custom Font";
+    font-weight: bold;
+    font-size: 1.3em;
 }
 p {
     padding-left: 20px;
     padding-right: 20px;
+}
+@font-face {
+    font-family: "My Custom Font";
+    src: url(Shelley%20Allegro%20BT.ttf) format("truetype");
+}
+b {
+    color: #77271F;
+    font-family: "My Custom Font";
+    font-size: 1.3em;
 }
