@@ -23,9 +23,9 @@
 }
 
 #header-image h1{
-    margin: -1px 0%;
-    padding: 0px 0px;
-    margin-bottom: -7px;
+  margin: -1px 0%;
+  padding: 0px 0px;
+  margin-bottom: -7px;
 }
 #menu {
   display:none;
@@ -259,7 +259,7 @@ h2 {
     border-radius: 1px;
     font-family: "My Custom Font";
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 p {
     padding-left: 20px;
